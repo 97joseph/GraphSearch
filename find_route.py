@@ -71,6 +71,7 @@ def main():
     print("max size of fringe: " + str(maxFringe))
     print("Distance: infinity")
     print("Route: none")
+    #Fringes
 
 if __name__ == "__main__":
     main()

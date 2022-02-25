@@ -1,4 +1,4 @@
-# Reads the input file
+# Reads the input files
 def readInputFiles(fName):
     filedata = open(fName, 'r')
     datastructure = {}

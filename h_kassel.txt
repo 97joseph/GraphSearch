@@ -19,4 +19,5 @@ Manchester 500
 Birmingham 400
 Bristol 400
 London 300
+London 301
 END OF INPUT

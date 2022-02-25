@@ -1,7 +1,7 @@
 # Reads the heuristic file
 def readHeuristicfile(fName):
     filedata = open(fName, 'r')
-    heu = {}
+    heus = {}
     for i in filedata:
         i = i.lstrip()
         i = i.rstrip()
@@ -10,4 +10,4 @@ def readHeuristicfile(fName):
             data[1] = float(data[1])
             heu[data[0]] = data[1]
         else:
-             return heu
+             return heus

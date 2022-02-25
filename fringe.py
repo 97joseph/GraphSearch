@@ -3,7 +3,7 @@ import readinputfile as readInputFiles
 import heuristic as heu
 import operator
 
-#Node Structure
+#Node Structures
 class nodestructure:
     def __init__(self, prnt, state, g, d, f, Uninformed):
         self.prnt = prnt

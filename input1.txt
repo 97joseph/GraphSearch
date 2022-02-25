@@ -26,4 +26,5 @@ Nuremberg Munich 171
 Manchester Birmingham 84
 Birmingham Bristol 85
 Birmingham London 117
+Birmingham London 118
 END OF INPUT
